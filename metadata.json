@@ -1,0 +1,7 @@
+{
+  "name": "CyberSerpent 3D",
+  "description": "Visually stunning 3D Snake game with Three.js UnrealBloomPass post-processing, procedural Web Audio synth sound effects, multi-camera chase angles, and cyberpunk synthwave aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
